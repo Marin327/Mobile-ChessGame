@@ -1,0 +1,17 @@
+{
+  "name": "MyNewProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "npx react-native start",
+    "android": "npx react-native run-android",
+    "ios": "npx react-native run-ios"
+  },
+  "dependencies": {
+    "react-native": "0.76.3"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "latest",
+    "metro": "^0.81.0"
+  }
+}
